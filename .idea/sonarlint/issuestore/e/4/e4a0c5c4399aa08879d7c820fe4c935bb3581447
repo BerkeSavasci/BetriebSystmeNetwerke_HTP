@@ -1,0 +1,14 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal "read: " 3 times.(—® é
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğåÌ‰
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(÷î„ïÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìÁ¡“ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—® é
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¾¯·“
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ò¸Ô
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(’¯éìùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ƒæâ‘ûÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(­£Èúÿÿÿÿ

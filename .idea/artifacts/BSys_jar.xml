@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BSys:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSys_jar</output-path>
+    <root id="archive" name="BSys.jar">
+      <element id="module-output" name="BSys" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/NWAppUtils.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

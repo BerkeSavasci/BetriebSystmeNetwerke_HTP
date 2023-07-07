@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÚ†Ò
+h
+java:S2095)"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ô­ú²ùÿÿÿÿ
+d	java:S116	"ORename this field "PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·À¬È
+7
+java:S1170	"!Make this final field static too.(·À¬È
+W
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(·À¬È
+F
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+ˆ
+java:S1130–"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÕÃùÔüÿÿÿÿ
+>
+java:S1068	"(Remove this unused "PATH" private field.(·À¬È

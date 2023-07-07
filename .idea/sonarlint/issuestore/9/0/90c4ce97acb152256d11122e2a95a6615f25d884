@@ -1,0 +1,6 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÌÌíö
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÚ†Ò
+n	java:S116"TRename this field "FILE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀüÔóüÿÿÿÿ
+m	java:S116"SRename this field "BYTE_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¥Û›øÿÿÿÿ
+l	java:S116"WRename this field "FILE_CONTENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û„Äß
